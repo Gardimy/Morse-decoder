@@ -55,7 +55,7 @@ The live demo will be availabe soon
   https://git-scm.com/downloads and install it).
 - Step 2: Once you have installed git you can clone this project using the command below:
   ```
-  git clone https://github.com/ibugithub/Morse-Decoder
+  git clone https://github.com/Gardimy/Morse-decoder
   ```
 - Step 3: Once you have cloned this repo navigate to the folder that contains
   the repository.
@@ -66,24 +66,24 @@ The live demo will be availabe soon
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running cloning this repo `https://github.com/ibugithub/Morse-Decoder`.
+To get a local copy up and running cloning this repo `https://github.com/Gardimy/Morse-decoder`.
 
 ### Prerequisites
 
 There are no known prerequisites to run this project.
 If you encounter any issues trying to run it, please feel free to
-[open a ticket](https://github.com/ibugithub/Morse-Decoder/issues) to let me know and i will work on it to the best
+[open a ticket](https://github.com/Gardimy/Morse-decoder/issues) to let me know and i will work on it to the best
 of my abilities
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-`git clone https://github.com/ibugithub/Morse-Decoder`
+`git clone https://github.com/Gardimy/Morse-decoder`
 
 or
 
-`git clone https://github.com/ibugithub/Morse-Decoder` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
+`git clone https://github.com/Gardimy/Morse-decoder` <-- _Only if you have [SSH keys configured](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on your GitHub account_.
 
 ### Usage
 
@@ -101,15 +101,15 @@ To run the project:
 
 ## 👥 Authors <a name="authors"></a>
 
-> 👤 **Md Ibrahim Hossain**
-- GitHub: [@githubhandle](https://github.com/ibugithub)
-- Twitter: [@twitterhandle](https://twitter.com/mdibrahimibuu)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ibuu)
-
 > 👤 **Gardimy Charles**
 - GitHub: [@Gardimy](https://github.com/Gardimy)
 - Twitter: [@gardyelontiga45](https://twitter.com/gardyelontiga45)
 - LinkedIn: [Gardimy charles](https://www.linkedin.com/in/gardimy-charles)
+
+ 👤 **Ibrahim**
+- GitHub: [@ibugithub](https://github.com/ibugithub)
+- Twitter: [ibrahimibu](https://twitter.com/ibu)
+- LinkedIn: [Ibrahim hossain](https://www.linkedin.com/in/ibuu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +119,7 @@ To run the project:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ibugithub/Morse-Decoder/issues).
+Feel free to check the [issues page](https://github.com/Gardimy/Morse-decoder/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

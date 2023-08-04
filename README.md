@@ -106,6 +106,11 @@ To run the project:
 - Twitter: [@gardyelontiga45](https://twitter.com/gardyelontiga45)
 - LinkedIn: [Gardimy charles](https://www.linkedin.com/in/gardimy-charles)
 
+ 👤 **Ibrahim**
+- GitHub: [@Gardimy](https://github.com/ibugithub)
+- Twitter: [@gardyelontiga45](https://twitter.com/ibu)
+- LinkedIn: [Gardimy charles](https://www.linkedin.com/in/ibuu)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
